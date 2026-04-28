@@ -1,5 +1,5 @@
 # Contacts-
-# 🪪 Dipta Tarafder
+# 🪪 Dip taTarafder
 
 A premium, highly-modified digital contact card featuring **Glassmorphism 2.0**, 3D depth effects, and a floating information architecture. This project serves as a centralized gateway for professional and social connectivity.
 
